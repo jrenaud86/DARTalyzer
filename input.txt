@@ -1,0 +1,18 @@
+#
+# What is the name of the converted raw file (.txt) in the 'raw files' directory?
+TargetsPRTC_Waters_MatrixBlank_TX_Full_45perc_1
+#
+# What is the mass accuracy of the instrument in Daltons?
+0.5
+
+#
+# What is the name of the output file to be written?
+output_non-target
+
+#
+# Trace the top X ions?
+4
+
+#
+# Exclude the following ions (m/z)
+604.816
